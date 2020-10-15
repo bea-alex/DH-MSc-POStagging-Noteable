@@ -5,6 +5,6 @@ This lesson was created by [Beatrice Alex](https://www.ed.ac.uk/profile/dr-beatr
 
 The notebook provided as part of this lesson is designed with use in [Edinburgh Noteable](https://noteable.edina.ac.uk).
 
-[1] Alex, Beatrice and Llewellyn, Clare. (2020) Library Carpentry: Text & Data Mining. Centre for Data, Culture & Society, University of Edinburgh. http://librarycarpentry.org/lc-tdm/.
+[1] Alex, B. and Llewellyn, C.. (2020) Library Carpentry: Text & Data Mining. Centre for Data, Culture & Society, University of Edinburgh. http://librarycarpentry.org/lc-tdm/.
 
 [2] Llewellyn, C., Orzechowski, P. & Alex, B. (2020) Teaching a Text Mining Bootcamp in Lockdown, Jun 2020, Edinburgh, pp. 1-7.
