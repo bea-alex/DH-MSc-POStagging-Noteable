@@ -8,3 +8,5 @@ The notebook provided as part of this lesson is designed with use in [Edinburgh 
 [1] Alex, B. and Llewellyn, C.. (2020) Library Carpentry: Text & Data Mining. Centre for Data, Culture & Society, University of Edinburgh. http://librarycarpentry.org/lc-tdm/.
 
 [2] Llewellyn, C., Orzechowski, P. & Alex, B. (2020) Teaching a Text Mining Bootcamp in Lockdown, Jun 2020, Edinburgh, pp. 1-7.
+
+[3] Alex, B., Llewellyn, C., Orzechowski, P. M., & Boutchkova, M. (2021). The Online Pivot: Lessons Learned from Teaching a Text and Data Mining Course in Lockdown, Enhancing online Teaching with Pair Programming and Digital Badges. In: Proceedings of the Fifth Workshop on Teaching NLP, NAACL 2021, Association for Computational Linguistics, pp. 138–148.
